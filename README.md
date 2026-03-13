@@ -31,4 +31,39 @@ Essas bibliotecas são utilizadas para:
 
 ---
 
-# 📂 Estrutura do projeto
+## 📂 Estrutura do projeto
+
+```
+crypto-price-analyzer
+│
+├── crypto_analyzer.py
+├── requirements.txt
+└── README.md
+```
+## 🚀 Como executar o projeto
+
+### 1. Clonar o repositório
+
+Abra o terminal e execute:
+
+```
+git clone https://github.com/Rafaeltqc/crypto-price-analyzer.git
+```
+
+### 2. Entrar na pasta do projeto
+
+```
+cd crypto-price-analyzer
+```
+
+### 3. Instalar as dependências
+
+```
+pip install -r requirements.txt
+```
+
+### 4. Executar o programa
+
+```
+python crypto_analyzer.py
+```
